@@ -27,14 +27,14 @@
     - Pembuatan kelas MahasiswaApp
     - Implementasi antarmuka pengguna (GUI) menggunakan Swing untuk menampilkan dan mengelola data mahasiswa
 
-### ACT 7: Pengelolaan Kode Sumber dengan Git
+# ACT 7: Pengelolaan Kode Sumber dengan Git
 
-# Materi:
+### Materi:
 
     - Pengenalan Version Control System (VCS) dan Git
     - Pengenalan branches dan tags dalam Git
 
-# Praktikum:
+### Praktikum:
 
     - Melakukan commit dan push dari Folder A ke repositori Git
     - Melakukan pull dari repositori Git ke Folder B
