@@ -1,4 +1,4 @@
-# ACT 1-2: Pemrograman Berorientasi Objek
+# ACT 1-2: Perkenalan OOP
 
 ### Materi:
 
@@ -12,7 +12,7 @@
     - Membuat objek Mahasiswa dan menampilkan data mahasiswa
     - Implementasi kelas Kendaraan dengan properti dan metode
 
-# ACT 5-6: Pengembangan Aplikasi Web dengan Spring Boot
+# ACT 5-6: Spring Boo
 
 ### Materi:
 
@@ -27,7 +27,7 @@
     - Pembuatan kelas MahasiswaApp
     - Implementasi antarmuka pengguna (GUI) menggunakan Swing untuk menampilkan dan mengelola data mahasiswa
 
-# ACT 7: Pengelolaan Kode Sumber dengan Git
+# ACT 7: VCS dan Git
 
 ### Materi:
 
